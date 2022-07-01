@@ -9,7 +9,10 @@ The movement of the Pacmen and its animation can be designed on the functionalit
 <br>
 (2) Open index.html in your favorite (and modern) browser.
 
-<h2>Roadmap</h2>
+<h2>Roadmap<h2>
 Plan to animate the pacmen's mouths to open and close as they move around the screen.
 
+
+<h2>License<h2>
+Ramarahavendar/PacMen is licensed under the MIT License
 
